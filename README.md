@@ -1,7 +1,9 @@
 # homebrew-alacritty
 [![](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://yuu.github.io/license/mit.md)
 
-Homebrew formula for alacritty
+Homebrew formula for alacritty  
+[alacritty](https://github.com/jwilm/alacritty)
+is GPU-accelerated cross platform terminal emulator.
 
 ## Table of Contents
   * [Requirements](#requirements)
