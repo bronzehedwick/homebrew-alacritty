@@ -8,5 +8,13 @@ class Alacritty < Formula
   def install
     system "cargo", "build", "--release"
     bin.install "target/release/alacritty"
+
+    if OS.linux?
+      install_linux
+    end
+  end
+
+  def install_linux
+    bin.install "Alacritty.desktop"
   end
 end
