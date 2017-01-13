@@ -16,7 +16,7 @@ Since this formula isn't part of Homebrew, add it as tap first:
 $ brew tap yuu/alacritty
 ```
 
-To install the latest, potentially unstable, version of Neovim from git HEAD:
+To install the latest, potentially unstable, version of alacritty from git HEAD:
 ```
 $ brew install --HEAD alacritty
 ```
